@@ -1,0 +1,7 @@
+# Ignore node_modules in backend and frontend
+/client/node_modules
+/server/node_modules
+
+# Ignore env files
+/server/.env
+/client/.env
